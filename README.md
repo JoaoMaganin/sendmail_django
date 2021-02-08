@@ -30,7 +30,9 @@ django-admin startapp inscrever
 
 <h3>Importante para que o projeto funcione: Ir na sua conta Gmail > Configurações > Segurança > Ativar acesso a apps menos seguros</h3>
 
-<p>Este projeto é do site DataFlair, para acessar o link original clique ![aqui](https://data-flair.training/blogs/django-send-email/)</p>
+<br/>
+
+Este projeto é do site DataFlair, para acessar o link original clique ![aqui](https://data-flair.training/blogs/django-send-email/)
 
 <br/>
 
