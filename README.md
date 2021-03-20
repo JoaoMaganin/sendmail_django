@@ -32,8 +32,7 @@ django-admin startapp inscrever
 
 <br/>
 
-Este projeto é do site DataFlair, para acessar o link original clique ![aqui](https://data-flair.training/blogs/django-send-email/)
-
+Este projeto é do site DataFlair, link original: https://data-flair.training/blogs/django-send-email/
 <br/>
 
 <h1>Meta</h1
